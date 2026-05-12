@@ -1,10 +1,38 @@
 # خواننده تلگرام
 
 <!-- TOP_NAV START -->
-<div dir="rtl" style="text-align:left; margin-bottom:10px;"><a href="https://github.com/ProAlit/aio-downloader/blob/main/telegram/content/archive_1.md" style="display:inline-block; padding:6px 12px; margin:0 4px; background-color:#2ea44f; color:white; text-decoration:none; border-radius:4px; font-weight:bold;">صفحه بعد</a></div>
+<div dir="rtl" style="text-align:left; margin-bottom:10px;"><a href="https://github.com/an1239bk/aio-downloader/blob/main/telegram/content/archive_1.md" style="display:inline-block; padding:6px 12px; margin:0 4px; background-color:#2ea44f; color:white; text-decoration:none; border-radius:4px; font-weight:bold;">صفحه بعد</a></div>
 <!-- TOP_NAV END -->
 
 <!-- MSG START -->
+
+---
+📅 بروزرسانی: 1405/02/22 17:47
+---
+
+## jqjwjfuwjfbwnndndbs — post 3
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Channel name was changed to «..»
+</div>
+
+## jqjwjfuwjfbwnndndbs — post 2
+
+<div align="center">
+  <a href="https://t.me/jqjwjfuwjfbwnndndbs/2" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📦 فایل ZIP آماده شد - پارت 1
+حجم: 59.3 MB
+</div>
+
+## jqjwjfuwjfbwnndndbs — post 1
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Channel created
+</div>
 
 ---
 📅 بروزرسانی: 1405/02/22 17:18
@@ -5142,5 +5170,5 @@ https://ir.voanews.com/a/8149153.html
 <!-- MSG END -->
 
 <!-- NAV START -->
-<div dir="rtl" style="text-align:left; margin-top:10px;"><a href="https://github.com/ProAlit/aio-downloader/blob/main/telegram/content/archive_1.md" style="display:inline-block; padding:6px 12px; margin:0 4px; background-color:#2ea44f; color:white; text-decoration:none; border-radius:4px; font-weight:bold;">صفحه بعد</a></div>
+<div dir="rtl" style="text-align:left; margin-top:10px;"><a href="https://github.com/an1239bk/aio-downloader/blob/main/telegram/content/archive_1.md" style="display:inline-block; padding:6px 12px; margin:0 4px; background-color:#2ea44f; color:white; text-decoration:none; border-radius:4px; font-weight:bold;">صفحه بعد</a></div>
 <!-- NAV END -->
